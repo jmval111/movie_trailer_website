@@ -2,15 +2,15 @@
 
 Welcome to our movie vault.  
 
-##### Downloading the remote repository: 
+#### Downloading the remote repository: 
 https://github.com/jmval111/movie_trailer_website.git
 
-##### Requirements:
+#### Requirements:
 * We recommend using [Firefox](https://www.mozilla.org/en-US/firefox/)
 * If you are having problems -- [Stack Overflow](http://stackoverflow.com/questions/tagged/factory-bot)
 
 
-##### Install
+#### Install
 You will need:
 * To work on files locally: [Git](https://git-scm.com/)
 * To work on files remotely: [GitHub](https://github.com)
