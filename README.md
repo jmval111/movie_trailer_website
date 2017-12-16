@@ -25,7 +25,7 @@ software, and may be redistributed under the terms specified in the
 About Hello_man
 ----------------
 
-![Hello_man](http://presskit.thoughtbot.com/images/thoughtbot-logo-for-readmes.svg)
+![Hello_man](https://github.com/jmval111/movie_trailer_website/blob/master/images/waving_man.jpg)
 
 Hello_man is maintained and funded by Hello_man, inc.
 The names and logos for are trademarks of Hello_man, inc.
