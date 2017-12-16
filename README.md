@@ -13,14 +13,12 @@ https://github.com/jmval111/movie_trailer_website.git
 ##### Install
 You will need:
 * To work on files locally: [Git](https://git-scm.com/)
-* To work on files locally: [GitHub](https://github.com)
+* To work on files remotely: [GitHub](https://github.com)
 
 License
 -------
 
-Hello_man is Copyright © 2017 Hello_man. It is free
-software, and may be redistributed under the terms specified in the
-[LICENSE](/LICENSE) file.
+Hello_man is Copyright © 2017 Hello_man. 
 
 About Hello_man
 ----------------
@@ -33,7 +31,3 @@ The names and logos for are trademarks of Hello_man, inc.
 
 See our other projects (coming soon)
 
-[community] or [hire us][hire] to design, develop, and grow your product.
-
-[community]: https://thoughtbot.com/community?utm_source=github
-[hire]: https://thoughtbot.com?utm_source=github
